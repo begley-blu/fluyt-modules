@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-03T23:22:12Z",
+  "generated": "2026-08-03T23:41:37Z",
   "modules": [
     {
       "id": "cato_input",
@@ -180,6 +180,6 @@
       ]
     }
   ],
-  "signature": "w576V1Fel6BFC61JRfn5P6aWtn9Qc4ZDXlK+qrVW2saVLfvADF+4DOsWV549rJRSKVVzLpI9XpCrTpR76a1gDg==",
+  "signature": "fl3o36d/BO5qVhVd59+OqQpuwoHuGbeVTYkyqwfowwceWMnHOtN1SYQGn8700MZrKO2CbUPLmVCfWRb+LetkBA==",
   "signing_key_id": "fluyt-release"
 }
