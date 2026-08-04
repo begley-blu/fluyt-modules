@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-04T16:14:03Z",
+  "generated": "2026-08-04T21:29:51Z",
   "modules": [
     {
       "id": "cato_input",
@@ -591,8 +591,67 @@
           }
         }
       ]
+    },
+    {
+      "id": "bitdefender_input",
+      "role": "input",
+      "name": "Bitdefender GravityZone",
+      "summary": "Poll the Bitdefender GravityZone API for security incidents, quarantine items, endpoints, and blocklist entries.",
+      "builds": [
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.0-082325/bitdefender_input-darwin-arm64",
+          "sha256": "ed1b3adbc7beaac7b897d877e6036533d7c26e5535bca0f962b299b53b622599",
+          "size": 6002018,
+          "manifest": {
+            "module_id": "bitdefender_input",
+            "role": "input",
+            "target_version": "0.1.0-082325",
+            "checksum_sha256": "ed1b3adbc7beaac7b897d877e6036533d7c26e5535bca0f962b299b53b622599",
+            "min_fluyt_version": "0.2",
+            "platform": "darwin/arm64",
+            "signature": "EwrkGWV8KUf/4y/9ChSk768AF4zhGa9EoVh/qr70MgQuZj2V2LZbW4WqfF0IzTJLFJ4Ws+KSTWDDlZVXFXx6AA==",
+            "signing_key_id": "fluyt-release"
+          }
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.0-082325/bitdefender_input-linux-amd64",
+          "sha256": "883cf6463c48ea8934cbf3fd7c30609dce80ec722cf04946f7ba999cd7b4e818",
+          "size": 6377634,
+          "manifest": {
+            "module_id": "bitdefender_input",
+            "role": "input",
+            "target_version": "0.1.0-082325",
+            "checksum_sha256": "883cf6463c48ea8934cbf3fd7c30609dce80ec722cf04946f7ba999cd7b4e818",
+            "min_fluyt_version": "0.2",
+            "platform": "linux/amd64",
+            "signature": "5H1HnDUdcB4J7t0Qo0904eNVVkYmcCv7nScfyWVIza2JpsH+fy/wuxdRGB0p3ZT6/Yl+usC9RlEbj9AzicjiAw==",
+            "signing_key_id": "fluyt-release"
+          }
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.0-082325/bitdefender_input-windows-amd64.exe",
+          "sha256": "eb15935fb33c0530ba7ac5c73801054a5e5044f03209b92ca985b8e538aa0db5",
+          "size": 6535680,
+          "manifest": {
+            "module_id": "bitdefender_input",
+            "role": "input",
+            "target_version": "0.1.0-082325",
+            "checksum_sha256": "eb15935fb33c0530ba7ac5c73801054a5e5044f03209b92ca985b8e538aa0db5",
+            "min_fluyt_version": "0.2",
+            "platform": "windows/amd64",
+            "signature": "8J59UD7hj8z9Nzkf36nfymIhk/CXPkzBWpZnN4eZGhhr2nvP7dSWmctvWPDo62dW4t9qSc/Fvs/BqkgflrxuCw==",
+            "signing_key_id": "fluyt-release"
+          }
+        }
+      ]
     }
   ],
-  "signature": "xqbAmXmVZfcy89hGqB0KimQpLRqz97pxNJPiWz68A9nxlzhozQAqawN2SNc5aFvbkT8a+MoKy1bsdty/TufQAg==",
+  "signature": "fmDkldO0UHDMUlbJxg3KaX7MBnNJK4dXdT66hSecKpoRJgp6uaIP9e8aFrvbt+jJVR8gzSQnmsRTkbHj43uxBQ==",
   "signing_key_id": "fluyt-release"
 }
