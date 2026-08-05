@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-04T21:29:51Z",
+  "generated": "2026-08-05T00:13:39Z",
   "modules": [
     {
       "id": "cato_input",
@@ -650,8 +650,67 @@
           }
         }
       ]
+    },
+    {
+      "id": "okta_input",
+      "role": "input",
+      "name": "Okta",
+      "summary": "Poll the Okta System Log for security, authentication, and lifecycle events.",
+      "builds": [
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.0-87566e/okta_input-darwin-arm64",
+          "sha256": "9013a2c38fe95b3a4890b2834c75d784ef608452bd081cfaeae12489c1f76172",
+          "size": 6001682,
+          "manifest": {
+            "module_id": "okta_input",
+            "role": "input",
+            "target_version": "0.1.0-87566e",
+            "checksum_sha256": "9013a2c38fe95b3a4890b2834c75d784ef608452bd081cfaeae12489c1f76172",
+            "min_fluyt_version": "0.2",
+            "platform": "darwin/arm64",
+            "signature": "eP7a5CDPoovWacNRIo1irnoHw15RH5mDnT7q07y8ulcrEIngVSe03qZjsoFBn1LJI/UuO3An8/5EdIf1munaAA==",
+            "signing_key_id": "fluyt-release"
+          }
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.0-87566e/okta_input-linux-amd64",
+          "sha256": "7e29a5e1e0efefa2146f7f556158e38a72f440a9e52c9aae4113caa0be8f5e27",
+          "size": 6365346,
+          "manifest": {
+            "module_id": "okta_input",
+            "role": "input",
+            "target_version": "0.1.0-87566e",
+            "checksum_sha256": "7e29a5e1e0efefa2146f7f556158e38a72f440a9e52c9aae4113caa0be8f5e27",
+            "min_fluyt_version": "0.2",
+            "platform": "linux/amd64",
+            "signature": "3FN02rDxiY4DAKuo+9nO7ayKPJcJ1Nn+hSCMmYI888cKR1w/F9ggrwaAveHCvWLpSVui1QoW/9C05WJL/771DA==",
+            "signing_key_id": "fluyt-release"
+          }
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.0-87566e/okta_input-windows-amd64.exe",
+          "sha256": "26d3c46aef9da8e86fcdb8a82d49a78b60da736b2a5202dde68cb52e173fe67d",
+          "size": 6522880,
+          "manifest": {
+            "module_id": "okta_input",
+            "role": "input",
+            "target_version": "0.1.0-87566e",
+            "checksum_sha256": "26d3c46aef9da8e86fcdb8a82d49a78b60da736b2a5202dde68cb52e173fe67d",
+            "min_fluyt_version": "0.2",
+            "platform": "windows/amd64",
+            "signature": "gzGAZ0+28R0ZKGuQtayyATwoHNdEFvgHL+LhnFAD63G+Sq3UQ6I9J58jD9a/NCRV9nGAt687Nl1EuqfPSmlmCA==",
+            "signing_key_id": "fluyt-release"
+          }
+        }
+      ]
     }
   ],
-  "signature": "fmDkldO0UHDMUlbJxg3KaX7MBnNJK4dXdT66hSecKpoRJgp6uaIP9e8aFrvbt+jJVR8gzSQnmsRTkbHj43uxBQ==",
+  "signature": "O099Sp5QTzpUev4j5lfUsBu9lUZK1l/xVsTn62omH6lSHGoZ/iZ8sohKxmi8XaDErRbnUe1INvFRIDdpGVHTDQ==",
   "signing_key_id": "fluyt-release"
 }
