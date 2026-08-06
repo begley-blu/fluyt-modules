@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-05T22:25:18Z",
+  "generated": "2026-08-06T13:28:53Z",
   "modules": [
     {
       "id": "anthropic_input",
@@ -11,51 +11,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-64efef/anthropic_input-darwin-arm64",
-          "sha256": "7b317c2cf2a28f1c15b39b2b20a72b8cca92fac2b360c82ddad855dc462e967a",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-da5972/anthropic_input-darwin-arm64",
+          "sha256": "b76187355d49dc61918c7b74b3343e8dc6dc5bd2c5916fe99b5b5f805894db67",
           "size": 6085746,
           "manifest": {
             "module_id": "anthropic_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "7b317c2cf2a28f1c15b39b2b20a72b8cca92fac2b360c82ddad855dc462e967a",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "b76187355d49dc61918c7b74b3343e8dc6dc5bd2c5916fe99b5b5f805894db67",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "W8O2y94syqIXHdZhLBVeKH6sjoUi1Se5WieNfd2lvYsw6vTkEzLZSHQvYC+rOT2PhPI7Gmem3WOEqlcdhHplBA==",
+            "signature": "jxY42G0Rju/TzfaXXjVydy3pL5AJlwBC2tS2sjD7BlGnhCVy3NB4xEc6Cuud7nZeVRQP2fj5hBB9nCc+3oZKDA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-64efef/anthropic_input-linux-amd64",
-          "sha256": "2c824e7a87a49ee310feb289368385b622bfd2be4ab01ded27836ed533bbfc03",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-da5972/anthropic_input-linux-amd64",
+          "sha256": "79b2160b0f2e85e70e2882662f1d785fb050705bbf27ba0e735bb2fdb063a54e",
           "size": 6451362,
           "manifest": {
             "module_id": "anthropic_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "2c824e7a87a49ee310feb289368385b622bfd2be4ab01ded27836ed533bbfc03",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "79b2160b0f2e85e70e2882662f1d785fb050705bbf27ba0e735bb2fdb063a54e",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "bew+5Cykke3ey5kMavLfrum2Kb9q80a9sbAzmWZXgFz3EEeUmp5e2uZ0gBMVAPMNhsVnPRt3nBU6DNHe9k97Ag==",
+            "signature": "p52Gm0pZcuv0pHURPuBzMJvGIQYAKF8FC2K7+yYB0ED78T2Nb19L4moYmiKdDUzI6ZfPOqxQ2dup9pR9QkpSAw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-64efef/anthropic_input-windows-amd64.exe",
-          "sha256": "6842132199fb08736cca41bcd080cf114dac2a2c967c2e2deea18a42c3a92a58",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/anthropic_input-v0.1.1-da5972/anthropic_input-windows-amd64.exe",
+          "sha256": "e1db9664e847c4013cf725e62232a0a461040e297d316cc0b0a851b06996bb84",
           "size": 6608896,
           "manifest": {
             "module_id": "anthropic_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "6842132199fb08736cca41bcd080cf114dac2a2c967c2e2deea18a42c3a92a58",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "e1db9664e847c4013cf725e62232a0a461040e297d316cc0b0a851b06996bb84",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "ks0mtyqPZXvdXCqFzOBOrm5UV3J8oIaDyvkTPEqf6iItlta7udJybNe+VvdPcE2Vnb6l9RtXwn3VA28iUvoBCg==",
+            "signature": "NNpxTPM2UxdgLlmW93aCX5ayt7C0BC7W/8jR4CAbLK5sdtspgHcfiZyR/2P38IQawpsOr/xRBdMuVmD7CWX4Bw==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -70,51 +70,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-64efef/bitdefender_input-darwin-arm64",
-          "sha256": "a10bf35a574f964bbba7898c735279c7cb713dc5a2efa6393ccbaf40aa3ff5c6",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-da5972/bitdefender_input-darwin-arm64",
+          "sha256": "7b17c2afc698d44ff317cb08ee131e312eb73103c9b4dc38abde8cc2ea49ca69",
           "size": 6035970,
           "manifest": {
             "module_id": "bitdefender_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "a10bf35a574f964bbba7898c735279c7cb713dc5a2efa6393ccbaf40aa3ff5c6",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "7b17c2afc698d44ff317cb08ee131e312eb73103c9b4dc38abde8cc2ea49ca69",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "YJ2TwVOJiW+Py1n4cHlJ6NB+mt6JOtKIaTnJJwGuHm5bmJCU0OzIPECKKzOJsE6nFkcCYATvpnxJjwsoR/uaDg==",
+            "signature": "ZV+54RyEzctRvsKa7T/QP6c4WFSRwiqQUMjmkOdYkN3K4faOzaS2+pnKbMS2tG6/AqqNyr2vi3SHwII8kYOCBw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-64efef/bitdefender_input-linux-amd64",
-          "sha256": "ba8b1c70e7914feba0a6f768655d319bc7c818ba6b18b4caef377dcf762cec62",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-da5972/bitdefender_input-linux-amd64",
+          "sha256": "6eee0f713b93b7a84cedc9259ef9f4aab16d1ad84b3e891e631ef36f41fa5543",
           "size": 6398114,
           "manifest": {
             "module_id": "bitdefender_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "ba8b1c70e7914feba0a6f768655d319bc7c818ba6b18b4caef377dcf762cec62",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "6eee0f713b93b7a84cedc9259ef9f4aab16d1ad84b3e891e631ef36f41fa5543",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "2FQ0tZxSqrAgy3Bs5Idl+9YfqyLFcM7CCtdYv5XF7p7SEA4cMJ31aAjQe/9m/9ZeH7Jyj0zr8WUIIQ2DS2LKAg==",
+            "signature": "eHCQbYayp6MnkdyMYa0UrJSpn0USD91jUdkSlzcDtFO7HJ4myH6sas/LFh6us5O9QkDcc4jnNGneMXG0LvSECQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-64efef/bitdefender_input-windows-amd64.exe",
-          "sha256": "6bc33cb737e8e2fbf9c9f655ea19d3bc2807ac46946c5449c03f8b30742ecd71",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/bitdefender_input-v0.1.1-da5972/bitdefender_input-windows-amd64.exe",
+          "sha256": "967a87df23e75ce4ebc3eee5e983ae2d4687e8cbac17e597637635764a5efafb",
           "size": 6557696,
           "manifest": {
             "module_id": "bitdefender_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "6bc33cb737e8e2fbf9c9f655ea19d3bc2807ac46946c5449c03f8b30742ecd71",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "967a87df23e75ce4ebc3eee5e983ae2d4687e8cbac17e597637635764a5efafb",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "8ll8ZBiq7ndUk6lpRQSBPWg0lTg4y9jkC1C2JZeqieODXWHcWfJGEjK9HOYPAzK707tuFCdb3yBWlAsp+9LECg==",
+            "signature": "6nx8NFLB+OcYaOcEafFTBtmfDQ1h2mT/jVMfvkDbqXJraT7SvDSpQYJcssyEJxLmjBCM0ho8pOuJ0iHa4a9SBQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -129,51 +129,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-64efef/cato_input-darwin-arm64",
-          "sha256": "7756c0b50b880aaf1319e7df1a62981f6616121bb48a5597caefd34f602a2575",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-da5972/cato_input-darwin-arm64",
+          "sha256": "9651e5a1b9382257fc2c0abde82610d1a4e61f99b90756e6ececc3608b751e11",
           "size": 6019250,
           "manifest": {
             "module_id": "cato_input",
             "role": "input",
-            "target_version": "0.3.5-64efef",
-            "checksum_sha256": "7756c0b50b880aaf1319e7df1a62981f6616121bb48a5597caefd34f602a2575",
+            "target_version": "0.3.5-da5972",
+            "checksum_sha256": "9651e5a1b9382257fc2c0abde82610d1a4e61f99b90756e6ececc3608b751e11",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "XkARZY/XxFne1eWMLhUmklaaxtFCyNe/zhLGxcYdjByCZRQlMedL+q6VczSXFnTdy85I9RqKHO2jkmDVXv81Bw==",
+            "signature": "e7RsXqTZgFkkUK/n00zpUlCsGO2h+G6Egk0eADQVfo1lq2dxmdLvYRMmKd6ccd1zwK3VgsECKaGRxjGVQ7gcAA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-64efef/cato_input-linux-amd64",
-          "sha256": "e9d96b7723ba08902d74dc24336ee682ce130ab509ebc22eeff06e3dc92e488f",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-da5972/cato_input-linux-amd64",
+          "sha256": "a2d24ce3327288e3a963afca10e38f2760828450b5767f3e61272ac11570c453",
           "size": 6377634,
           "manifest": {
             "module_id": "cato_input",
             "role": "input",
-            "target_version": "0.3.5-64efef",
-            "checksum_sha256": "e9d96b7723ba08902d74dc24336ee682ce130ab509ebc22eeff06e3dc92e488f",
+            "target_version": "0.3.5-da5972",
+            "checksum_sha256": "a2d24ce3327288e3a963afca10e38f2760828450b5767f3e61272ac11570c453",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "fdzD1YecXWKeut5rs1FhnhJPO1ggkdFEJ1o1NfoMGYR/N1a9YVr6VcEwM66Ar9UrBw78Kk4ZHl4DgfLeFEOnBA==",
+            "signature": "Kt0q2tAWuNP8mNVxfDX+mXVc+QR/UV0TXaSoc+nqdr2p/xEEH0X1DJ4nYfiBFCxTnSFWaq2vFyzrm/mnGhd4BQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-64efef/cato_input-windows-amd64.exe",
-          "sha256": "2b2614c02914f41572e20b93d776d4ee6d8afe5aad6a23d6aab3d07faf67d171",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/cato_input-v0.3.5-da5972/cato_input-windows-amd64.exe",
+          "sha256": "cf5b67188017b506c03b02d0b0db6eecab98122307462e0deae738c526fbf36c",
           "size": 6535680,
           "manifest": {
             "module_id": "cato_input",
             "role": "input",
-            "target_version": "0.3.5-64efef",
-            "checksum_sha256": "2b2614c02914f41572e20b93d776d4ee6d8afe5aad6a23d6aab3d07faf67d171",
+            "target_version": "0.3.5-da5972",
+            "checksum_sha256": "cf5b67188017b506c03b02d0b0db6eecab98122307462e0deae738c526fbf36c",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "ShlTUZD8JEdHP8cWXb9wQ/JPyDmrXgOqaWSwFehmz2D5KCs2idg386JuoP/3JJ+3ncut5XjwmNAq5Nv+aGsBAw==",
+            "signature": "OoZImZC+M2gCWKlVRM60GWbZR0uK4YVFMSIBruS94Uz+YQ5QcnZ02kFd4ufxMezLOOMxCNNNWJGckrmTPiVMCQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -188,51 +188,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-64efef/datadog_output-darwin-arm64",
-          "sha256": "8a913f7d9d8047457e73f62ee92723a8f7bef60430aa0202b7583c1f5f3ba3ad",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-da5972/datadog_output-darwin-arm64",
+          "sha256": "719784279cfca14339af38894ddd57212edf4354da0d89c82591ab58346bad28",
           "size": 5951714,
           "manifest": {
             "module_id": "datadog_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "8a913f7d9d8047457e73f62ee92723a8f7bef60430aa0202b7583c1f5f3ba3ad",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "719784279cfca14339af38894ddd57212edf4354da0d89c82591ab58346bad28",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "V0g8dBrKOgadzWMM2fgxhAfuJcyxgJ+1dBlsR0IqfNlunpcsu1nFzM1e13za3tq/GREtqKZUgiNZIGa94YwDCw==",
+            "signature": "ISjLn4IJ8Z49n48xG1T6WRAlFL+kZ/lnK1yXS7AS4tKFejA60jeuV1ypZvEB8pPLh+0RFtDaA0Vt0ae2O93yAQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-64efef/datadog_output-linux-amd64",
-          "sha256": "c332be8beb6661a10e95973196e52e8326fa25c1072b7d9f383089e1ff22fb39",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-da5972/datadog_output-linux-amd64",
+          "sha256": "2eb363740940e6003e08d1d75ee32457daaa4d89968956b4a4e7a48b28ff163b",
           "size": 6312098,
           "manifest": {
             "module_id": "datadog_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "c332be8beb6661a10e95973196e52e8326fa25c1072b7d9f383089e1ff22fb39",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "2eb363740940e6003e08d1d75ee32457daaa4d89968956b4a4e7a48b28ff163b",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "qYGdfY/cNown7L9sx5vMKriWLIohinJLOa97/XqW6wDh8kWE6BXIPZp2qeyc4dLTCmty5ERRkgglDdjjMltGAw==",
+            "signature": "teAnqDeFQEI/8FBIwc0hMVCH9/3vSofGDGfGZ2aK1L+XXm31zL3wAgZWn8lnzKut6asA+BBuYsycDEy3BilaAQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-64efef/datadog_output-windows-amd64.exe",
-          "sha256": "0bf65d65557f7b57accfe901c561f52385c940609757fe9b5c58563299d94a1d",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/datadog_output-v0.1.1-da5972/datadog_output-windows-amd64.exe",
+          "sha256": "1ceb31d489c69c7ccc1f4b636eddb047ee024de6971a1692f1ee4d766d06aa64",
           "size": 6451200,
           "manifest": {
             "module_id": "datadog_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "0bf65d65557f7b57accfe901c561f52385c940609757fe9b5c58563299d94a1d",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "1ceb31d489c69c7ccc1f4b636eddb047ee024de6971a1692f1ee4d766d06aa64",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "NNwU4bYnscICmBciN770qdg/+REwBFvrciyd2RBtcoOKtgHzXefbJCvlTtCZm3e/rmJ3o+jh2dfQBfRgRFnvBQ==",
+            "signature": "1ofJw5pbjFkaeMfRRCsFx/dDvC5Cfkc6oohN+X73dmVFL0yotYFvggbUWkRAfGqHJD8XzulrmJbdC1oTa+pAAg==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -247,51 +247,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-64efef/elasticsearch_output-darwin-arm64",
-          "sha256": "23dfcf68d940c0839d3ea46fe744766a39f3a432d9f6333e94c865efeed92b64",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-da5972/elasticsearch_output-darwin-arm64",
+          "sha256": "6cdadfdbc10a9d2f0aab4150801ce244271741a0fad495d4898270ab73768494",
           "size": 5951890,
           "manifest": {
             "module_id": "elasticsearch_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "23dfcf68d940c0839d3ea46fe744766a39f3a432d9f6333e94c865efeed92b64",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "6cdadfdbc10a9d2f0aab4150801ce244271741a0fad495d4898270ab73768494",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "whNSp0SG+f7rNejDlNAEGd+8sNpHiUyurVkePkm11uZSAI4lEOXkbZ/lRCLJLizJL0SwiuE1ZwBikwKP9TpYCQ==",
+            "signature": "F/MLWCsqq4D5VImzmMZWnYAoeN5+5wyngFtFaA5b5I5v1cKpznmUitoSaHN8ASyMrpEfrFspNGYPeRVzeS2qCQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-64efef/elasticsearch_output-linux-amd64",
-          "sha256": "3f0a2b2a15e8edd3e9b73fb6abb21423cc0915a35ab3141cd4b7ff37237cb48e",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-da5972/elasticsearch_output-linux-amd64",
+          "sha256": "392b66c8f85f44ab701d4a4657bf9dc904cc3bc6b8eda384d6420c05d5ef7f0f",
           "size": 6324386,
           "manifest": {
             "module_id": "elasticsearch_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "3f0a2b2a15e8edd3e9b73fb6abb21423cc0915a35ab3141cd4b7ff37237cb48e",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "392b66c8f85f44ab701d4a4657bf9dc904cc3bc6b8eda384d6420c05d5ef7f0f",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "VJcdkwi4Vfk3ZsweBjBx+cKiR/Ij1uWXY13twJZFSUgoDgbf6d8ndoJjxDY0emeOx4hq2FvIbkX5yunPctmFAw==",
+            "signature": "qJYFSa8MetoJO6jWLd+yIyOX20AFefOk2OYQKq+TLKTEpBsV4Byf/13qhnznHaXxMYryVMt5of6nhfzYgG9hDQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-64efef/elasticsearch_output-windows-amd64.exe",
-          "sha256": "3ecc19e3b00d5d8b02b82381e75d466fb223a4d6df48d9742188f0c9f50bf737",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/elasticsearch_output-v0.1.1-da5972/elasticsearch_output-windows-amd64.exe",
+          "sha256": "a29323e307113a29677b063e4d41d2d38765e959bf2b8d748c6646305538d2bc",
           "size": 6466048,
           "manifest": {
             "module_id": "elasticsearch_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "3ecc19e3b00d5d8b02b82381e75d466fb223a4d6df48d9742188f0c9f50bf737",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "a29323e307113a29677b063e4d41d2d38765e959bf2b8d748c6646305538d2bc",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "gakylNTyibVojkQjSMYa7my6zZ2hy6JUYsuYX6yjrFlgDcZeITwlj6GZAeG8a6uCGnjv2fhIINKWBqSK2GWqCQ==",
+            "signature": "6VnGJqJwWAMRAoLnVTkXH/WIkfP92GpXeEUPbyhDo9w1DQdNd8H7Tmgn1cHdBPkz/fPJgSUJTyCUG+z1PG9iDw==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -306,51 +306,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-64efef/huntress_input-darwin-arm64",
-          "sha256": "41d713cc0268ad067385aa6e6a61f86f0f75cb678d84044c593204f106023f6c",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-da5972/huntress_input-darwin-arm64",
+          "sha256": "1662f238d1c8e17bb56ebf8328e885e1049cb10b8d7b1b1aaafc95745e5a28be",
           "size": 6035602,
           "manifest": {
             "module_id": "huntress_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "41d713cc0268ad067385aa6e6a61f86f0f75cb678d84044c593204f106023f6c",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "1662f238d1c8e17bb56ebf8328e885e1049cb10b8d7b1b1aaafc95745e5a28be",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "MdstMaZ1zDHr0TCdW+uLSvsdvlfrqsWDygEJAT11WEMkloQUjh/Dv9q95Z8uWouTOL7/QWuqts5EtYErYVtABg==",
+            "signature": "X/movES4PstAtuWJtRqeNhW7L1aIa5fWCpOZZWgYkopMAuSVbrO3vvZGTFMSdykLVq5Hp+QJU2d6ebKwDEUkAA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-64efef/huntress_input-linux-amd64",
-          "sha256": "15237d37975aa80fd0d5459a3eb4364c30855b2bdd9fbf9ffab566a0de87d88b",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-da5972/huntress_input-linux-amd64",
+          "sha256": "7972b28797333a7033328ddac98c2c992b8820d4fb6c88b6ed34affad17e25c5",
           "size": 6389922,
           "manifest": {
             "module_id": "huntress_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "15237d37975aa80fd0d5459a3eb4364c30855b2bdd9fbf9ffab566a0de87d88b",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "7972b28797333a7033328ddac98c2c992b8820d4fb6c88b6ed34affad17e25c5",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "ZtPhuoSQzHxnZJtmrwnK/ILR0KnUM0cf8L8MwqaaLeGXpOajHCELesdqfWjOd0VvEduAZXn5xmcGxFRt5bAXBw==",
+            "signature": "WD5Ehp9VXSb30Av7IcDqfVuRownx1GW4sPNarNiLNf4J9N0U1YDj8a+PE0fQL8EZVNrXGCEW25qtq6kegMpIAw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-64efef/huntress_input-windows-amd64.exe",
-          "sha256": "6c448b88ff8c17e3503ff5b4573483e48a18f69e3abecdae49defaaf0454365f",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/huntress_input-v0.1.1-da5972/huntress_input-windows-amd64.exe",
+          "sha256": "17a6c113285d7d15566868d8ef789062e70307efaf5d6f0ba419511a7429f215",
           "size": 6547456,
           "manifest": {
             "module_id": "huntress_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "6c448b88ff8c17e3503ff5b4573483e48a18f69e3abecdae49defaaf0454365f",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "17a6c113285d7d15566868d8ef789062e70307efaf5d6f0ba419511a7429f215",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "R1avls/lLtFk71cCnPTvAn01iDsMoFq/eklj7tNwUreEGYqYoNCtGXZi4j5Tyb1ecp8cazQck2jKpMySmRxlDQ==",
+            "signature": "HfPh6CTt9d+aNwIZPUhjn6E6u9RsPsbYUaU6kus+cKEbeZM1NLh4scMaBIGH/Yr1k1LBdKSl9gxQJVvG8GgFDQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -365,51 +365,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-64efef/loki_output-darwin-arm64",
-          "sha256": "4d0f316f6cb37c8616ec73e9de30f0d4461f04bdc3c28cb11878c85f0331ff54",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-da5972/loki_output-darwin-arm64",
+          "sha256": "b6562084c6c864a517120f5b66ee67905c723423c9ffdf6df1e23c0b005b81d9",
           "size": 5951698,
           "manifest": {
             "module_id": "loki_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "4d0f316f6cb37c8616ec73e9de30f0d4461f04bdc3c28cb11878c85f0331ff54",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "b6562084c6c864a517120f5b66ee67905c723423c9ffdf6df1e23c0b005b81d9",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "vM5nDJwRfj7Jcw8nv8rptUi9aY9kMJ9cRi4HcZpwlely/07dIVZknpLAKpf+8U85Rv2O+Zn3PSftq25sPeAYDA==",
+            "signature": "+vHeSdblPLLlJn3rp3J3MeieBsaYN6F6tVYYwGNT73Xn2DaJcFaDZqmv2C+Ui3TjzyVRxdEUyF6/eVokT45xCQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-64efef/loki_output-linux-amd64",
-          "sha256": "e37caee5cee5e254ff82cebd511fee52ec00cfdfa47f0b62b67943786539e30b",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-da5972/loki_output-linux-amd64",
+          "sha256": "cc84d52394ed743e96675fc564b53b42fbf2991f3d4f3c5b77ddc224d59cfba5",
           "size": 6320290,
           "manifest": {
             "module_id": "loki_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "e37caee5cee5e254ff82cebd511fee52ec00cfdfa47f0b62b67943786539e30b",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "cc84d52394ed743e96675fc564b53b42fbf2991f3d4f3c5b77ddc224d59cfba5",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "W6tEhCUhAabYtomk+pBQiAtxk/9eeA2nQmCxBpGu5BXwRqsxzxtQK9Tixd07MHnjYSt+9uc/owweKvWTEA5LCA==",
+            "signature": "mgI3Jm9dzTzXlk8b6A2yN40hAXM+cR6LusUGD6D059hQIOLfm7N8BKv9doYtdyuFt5WFG1WUKiA1/JCzEH3tDQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-64efef/loki_output-windows-amd64.exe",
-          "sha256": "287c1b3e1637d68b87a8d5c81119da93bb084665337c033018b52f0b2d97f954",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/loki_output-v0.1.1-da5972/loki_output-windows-amd64.exe",
+          "sha256": "32cd4cde2f7447592cb12f2bba1a5c1b40314159386f08c846fcf0e587075df4",
           "size": 6460928,
           "manifest": {
             "module_id": "loki_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "287c1b3e1637d68b87a8d5c81119da93bb084665337c033018b52f0b2d97f954",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "32cd4cde2f7447592cb12f2bba1a5c1b40314159386f08c846fcf0e587075df4",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "h16/SccqWD3n8o5wYSEe/JgDub8Ir/y6joNo0wHBDgSB7tg96sTNYUv8/tLFiuEAgynsq5UsmDEfNejeP5qbDw==",
+            "signature": "wEUWPurF7vlFVsnJOdW/hTM55ehheZZEJI38qbebWz1p4UMEYLpR8XSCjSzOCUW0BysvJMWPzZFcJxer1m49Cg==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -424,51 +424,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-64efef/ninjarmm_input-darwin-arm64",
-          "sha256": "e8d534d23a1c9d5052a7f2e861e1ab43add79605304e53db79c8e6658ece3dca",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-da5972/ninjarmm_input-darwin-arm64",
+          "sha256": "e33a08beff0edc94a68f83f793695e6ddaeb4fcf5d493fa0a847315ab6e9999e",
           "size": 6068994,
           "manifest": {
             "module_id": "ninjarmm_input",
             "role": "input",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "e8d534d23a1c9d5052a7f2e861e1ab43add79605304e53db79c8e6658ece3dca",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "e33a08beff0edc94a68f83f793695e6ddaeb4fcf5d493fa0a847315ab6e9999e",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "dzQzGJgOPJfUvog4zagKS64I2GcDMEkYxg+1+aWhU/ggn4ym8vDXz0EvzIuHUrTkYJyjonCxCdQ28g/aj5CoCw==",
+            "signature": "1O6X97biO9/kbhbcbw24NNThMJLhTw9TeqWRlpgG7rpwuy3NjG/1EV+N9K6ZygGvAwEmf5MiZpPxD995rqqSCg==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-64efef/ninjarmm_input-linux-amd64",
-          "sha256": "50ab769e62cea78be811f8efef23901e4222de9e77bd2825bc71bd449ea9ff72",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-da5972/ninjarmm_input-linux-amd64",
+          "sha256": "c661f423253d407560b16f61a382c301a116e025e68c613492bd3f23ef718e54",
           "size": 6430882,
           "manifest": {
             "module_id": "ninjarmm_input",
             "role": "input",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "50ab769e62cea78be811f8efef23901e4222de9e77bd2825bc71bd449ea9ff72",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "c661f423253d407560b16f61a382c301a116e025e68c613492bd3f23ef718e54",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "/CdbUWcVsTVxlbcYbu+n30YsDcnm1Vnn9JmoeC97/fe9M8iiBfykt/rrFXOPkMbtUM/xW2dIluFy4wJsWa+2Cg==",
+            "signature": "tvn1i/MxXvxAobu1M1V5x14qGYF2mDA4oIov/1c/ss5qgSX7SuC0BlYoccOu3IU0gRzk8qqExDhRNnMormVqCQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-64efef/ninjarmm_input-windows-amd64.exe",
-          "sha256": "24118be38ffdcd8ad44f6f497cc2b515aaed231b164b90d6b45c86af0bd8f714",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/ninjarmm_input-v0.3.1-da5972/ninjarmm_input-windows-amd64.exe",
+          "sha256": "61b6722e896776460d18c0078938b2802b98e4e8fcdc8ec3a0aef3abae3c9f12",
           "size": 6589952,
           "manifest": {
             "module_id": "ninjarmm_input",
             "role": "input",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "24118be38ffdcd8ad44f6f497cc2b515aaed231b164b90d6b45c86af0bd8f714",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "61b6722e896776460d18c0078938b2802b98e4e8fcdc8ec3a0aef3abae3c9f12",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "KANSqkGTBQdMw7FYSDHyvk+7i5bUb8/ch+Wf+1Imwotv433fi0tYEcS3nfbAoAfohGaAmL1aNlk3oyFp6euQAw==",
+            "signature": "2vH1/CfJrPwUPdTpnGn+2vkZWbEIzqktxJzNvMUlMMnvhB0qLRcX4d6JSXQmJzCWnZDb4b4xSBYBP+H4FBQABA==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -483,51 +483,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-64efef/okta_input-darwin-arm64",
-          "sha256": "1b24c2847c4d9509c68570f8643f1a92f307a6032e9a1521a456ff5c1c6d897c",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-da5972/okta_input-darwin-arm64",
+          "sha256": "31a2fb7b2d5725c2a3270d89a904d2dfe181a39be22e168755a06a9a3115489f",
           "size": 6035698,
           "manifest": {
             "module_id": "okta_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "1b24c2847c4d9509c68570f8643f1a92f307a6032e9a1521a456ff5c1c6d897c",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "31a2fb7b2d5725c2a3270d89a904d2dfe181a39be22e168755a06a9a3115489f",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "pA6sGwkNyF2w8mqhY3HhQYbgRZ7l29FL+7NagK5hHe8MP1nmx/79PHyyWZf0o1Z5K0nATqwQ+Z333Db0GDNxBA==",
+            "signature": "A/YYuFOAPm8IuLqQi6YkNDDE/BzGrzXpEZLnhzuVTgg3KW23AYQ6H+VuHbfzxPPdYmLI11sdEEleGTXbjiVwDg==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-64efef/okta_input-linux-amd64",
-          "sha256": "35342f986e46abe5580fa692b87fdd76270144d865afe181695352b735ed0a05",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-da5972/okta_input-linux-amd64",
+          "sha256": "95c58045d85d32c494e40443ddc6f789343fb2036281cf60e26e96182bec1894",
           "size": 6385826,
           "manifest": {
             "module_id": "okta_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "35342f986e46abe5580fa692b87fdd76270144d865afe181695352b735ed0a05",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "95c58045d85d32c494e40443ddc6f789343fb2036281cf60e26e96182bec1894",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "0WNWZIHsGGD82MSUWX0BKnuLlpXQlmH7LSPLzzdvjrNOb3Sz4pDRAq69XF/W9juBAlO9e+RuJwbMMqtimglJDg==",
+            "signature": "InhZ23pS9MqQSZCYv5nY2UKvTQrpOr5ttwnZq3jqy0ihqZuAjx17ZTDDxnY2682KzBFzedsCLmJVeebIK2EwBw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-64efef/okta_input-windows-amd64.exe",
-          "sha256": "80a7b02beecdc55e0b24f23c4296002abf4b9887b590e6249e2b7da55710f6fd",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/okta_input-v0.1.1-da5972/okta_input-windows-amd64.exe",
+          "sha256": "ea0e2b7ffe1494d65ad97e4d62015d8b0ef58de0961deea4d8b2fd107d9386b8",
           "size": 6545408,
           "manifest": {
             "module_id": "okta_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "80a7b02beecdc55e0b24f23c4296002abf4b9887b590e6249e2b7da55710f6fd",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "ea0e2b7ffe1494d65ad97e4d62015d8b0ef58de0961deea4d8b2fd107d9386b8",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "S+cBadVJpynN+qT6NZoiKgswTLvvViA2PbwGGU+PpqcJU5miQPzP1sGGvxdd/16j5dwvyofLVHFc+w/FsvjbCw==",
+            "signature": "Lj91zojuFVrLp10ELqnPWGd1D0HES240jPRh9mxrbJXAS7YgwJeX0Q98165rGgmxsy7PvJsRM9SKAGj2EmoYBg==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -542,51 +542,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-64efef/openai_input-darwin-arm64",
-          "sha256": "f53a8fd283272a8610bf1c0eac99ffaa712503f2b7f4648f1a5f9d935cc51ddc",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-da5972/openai_input-darwin-arm64",
+          "sha256": "54c2361a767fc0e2601add0c7433c0c54877da7ec4ebd0aa7ff69c4ebc2d2a52",
           "size": 6052290,
           "manifest": {
             "module_id": "openai_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "f53a8fd283272a8610bf1c0eac99ffaa712503f2b7f4648f1a5f9d935cc51ddc",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "54c2361a767fc0e2601add0c7433c0c54877da7ec4ebd0aa7ff69c4ebc2d2a52",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "fpWSy5ZRsByThgVZWtol7j/7lsU/BO56UypMheCGYFZqzhIq4j7AafUZXvgr07VqsiLI+/GJJmjVIK4Fgr8MDQ==",
+            "signature": "BAHnFOotD8YCsya6iepr96JNg3O868rqOyIf5myJy+hU6v6ssH1rF2j/0CICGxOTt1h0nWbrZmAx1mAN62eiBQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-64efef/openai_input-linux-amd64",
-          "sha256": "41c3e4cb1eaf179875cd247f706e51c9119bb9a452ba6ef8fad9dea5a21f24e3",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-da5972/openai_input-linux-amd64",
+          "sha256": "2074beb8a48f778b1b4bc27ea6064694af1acc26def76376669e1635ac1f27e7",
           "size": 6410402,
           "manifest": {
             "module_id": "openai_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "41c3e4cb1eaf179875cd247f706e51c9119bb9a452ba6ef8fad9dea5a21f24e3",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "2074beb8a48f778b1b4bc27ea6064694af1acc26def76376669e1635ac1f27e7",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "mTYW2t4DSJnuCcSX0aUPvvBnQ22lIufxhxXMpRdHTVSbxRNY9P0W6ymD7EN+sOo34PVhCtF9v4cf/4kbAl5DDA==",
+            "signature": "JcjrOYwiKChFEzET4I1EdF893e6ta304PpQvNUHOF3gRMRpTqZxCLZfpGhS6sBuvcgwjhsnNeicQ6zg5YQRJBw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-64efef/openai_input-windows-amd64.exe",
-          "sha256": "4e33a606006ecd857b09e88e969239e80f0a3bc48f0aea8a06c455d055043cb3",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/openai_input-v0.1.1-da5972/openai_input-windows-amd64.exe",
+          "sha256": "921410fc2927c77f4093fd2f4f2516ea58d4f18c865df294c95232b0a0bb88f6",
           "size": 6574080,
           "manifest": {
             "module_id": "openai_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "4e33a606006ecd857b09e88e969239e80f0a3bc48f0aea8a06c455d055043cb3",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "921410fc2927c77f4093fd2f4f2516ea58d4f18c865df294c95232b0a0bb88f6",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "CGBk9R7vBBzWqV7zEExKNOsMbLujuqTUdAR0mRf4nMppTaWJbk/1Jn2KoBCMUjT6sQHm3/jB0bbZABUe/52SDg==",
+            "signature": "356jaNsQk8XyhqVc1H/4eFDBGIDclTWGjt0WExnuMV7yIpFnBx+9jaJc4Fe3ar3ipCGWTb5TcBuxZZSYEf0QDw==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -601,51 +601,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-64efef/s3_input-darwin-arm64",
-          "sha256": "cf31b4344956e61a7b6990881f499034c0ca710f26412f79b7a765139b7c0460",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-da5972/s3_input-darwin-arm64",
+          "sha256": "a8b0d644483a284ae135826e7ef41a419e4a088f31f737166f303f7ce6afa8b6",
           "size": 9610754,
           "manifest": {
             "module_id": "s3_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "cf31b4344956e61a7b6990881f499034c0ca710f26412f79b7a765139b7c0460",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "a8b0d644483a284ae135826e7ef41a419e4a088f31f737166f303f7ce6afa8b6",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "2hqKY5tIJJ/MMaQd1enO+RFy8IwbUioP3zLGyhqBpZeXVcUZ7kshVIqHue/q5+56NHlLj2qTEmaIEZw5UYgrDQ==",
+            "signature": "40bJo+g3NiRbxa9ZeE6r/rWf4xKvkYLbb0lSU/m2uPkxTJ2zJwZc1qF6yU05fPSRH2c03pr8FXcNGLswBEacCQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-64efef/s3_input-linux-amd64",
-          "sha256": "9e8b108c6dccbdf535ec4830127816bf2b2d0aeb376c3f314de55dd5348aee8e",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-da5972/s3_input-linux-amd64",
+          "sha256": "91b854bab8c7b4212eb92160eee88cdd52cf4bc56945524a753c1590d8dbba3c",
           "size": 10215586,
           "manifest": {
             "module_id": "s3_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "9e8b108c6dccbdf535ec4830127816bf2b2d0aeb376c3f314de55dd5348aee8e",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "91b854bab8c7b4212eb92160eee88cdd52cf4bc56945524a753c1590d8dbba3c",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "lDlHkL1/He8D4Q6QdAEW0etbtIUF3ATD9Gp0GJclWppLMcKgrsbvGtYikA/hbL68mU7fYY9mrrNmiy8RmC/zDw==",
+            "signature": "gBoBm+qP+igemEG9qwJDem0PYOh1I4USTgUKw9yUqMpFFtWtVbz6Ifs3BUczYO8k5zX3XjxAfbYXpWlRDHxKDw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-64efef/s3_input-windows-amd64.exe",
-          "sha256": "f86e912aa6eb8c7bb857aa28c7b674e5b82504b2cf857082e133dd4c81093394",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_input-v0.1.1-da5972/s3_input-windows-amd64.exe",
+          "sha256": "df1989f59e69fe2501e9f1862491e573a2923f2f8b7d45ebf8c51e94dc317e39",
           "size": 10466304,
           "manifest": {
             "module_id": "s3_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "f86e912aa6eb8c7bb857aa28c7b674e5b82504b2cf857082e133dd4c81093394",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "df1989f59e69fe2501e9f1862491e573a2923f2f8b7d45ebf8c51e94dc317e39",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "AZpv/p2NwTWV4CZ0NK2YzXBlXdtcuHWfX+FqVBwgNWI64hooP6L9wJQcaLNAfRYq3EspIBN17kCd1XB57yxGAw==",
+            "signature": "F9OZKMfxxnOHj1lh6R1WFkrVnXJaXDWQRfCT+HnQpLnjbOl5GEB3YwarjG4JVT1Ck95MHS5olhSJqkrHxEchDQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -660,51 +660,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-64efef/s3_output-darwin-arm64",
-          "sha256": "34440a8eeb225003dbf8022430fd795341b8399e1bb828ba8c9fa150bf802cc0",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-da5972/s3_output-darwin-arm64",
+          "sha256": "66f900db104f3e47ddaa98b84b7ce383a3e0e59f77621b2e71c8dec32b8d9896",
           "size": 9593298,
           "manifest": {
             "module_id": "s3_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "34440a8eeb225003dbf8022430fd795341b8399e1bb828ba8c9fa150bf802cc0",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "66f900db104f3e47ddaa98b84b7ce383a3e0e59f77621b2e71c8dec32b8d9896",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "egBv4msgPdxxB+/ZV6Z9tw/ZVGcdhVHvZ6ig/67b8dnzxlLDYDc2YYGqaQ9+xIGdIGvfl9d7gz0JKKi8tsxqBA==",
+            "signature": "T7cOJVTyrFYX2bsGaXCh9j965ktwJz9nm4IvChkFCy74q5XAktYrR+LGD3/izsMw1REoSBD6JClQfYIbhdRPDA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-64efef/s3_output-linux-amd64",
-          "sha256": "0d88cc5376815d1565783a6e226bddd1c707e55ec11e52f9fc6fb3d56d2f447e",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-da5972/s3_output-linux-amd64",
+          "sha256": "9aa55ef54224b96db83b8c81a3ccb735c99e0150b41f015a5dd42a2b458a1edd",
           "size": 10178722,
           "manifest": {
             "module_id": "s3_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "0d88cc5376815d1565783a6e226bddd1c707e55ec11e52f9fc6fb3d56d2f447e",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "9aa55ef54224b96db83b8c81a3ccb735c99e0150b41f015a5dd42a2b458a1edd",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "+PdawrDGHeBqmiAr2fH8gjTleU9irCPhZWPQlZq23xZG9rjYEQLivINE2RjXy/v8NJ4t6AAMwQNfI73CLvEcDg==",
+            "signature": "FSYQ6gLsMCPxrmi+y/tIvJvsKsFHtpt80B+XFcJ0KTJNBYHc+q24XH58uXhhpGVFJk99yh51Q7GSke5/pvfOBA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-64efef/s3_output-windows-amd64.exe",
-          "sha256": "b1c592eb37564e1a440770c9de1ee897670559c82363b6674ab64c9204acf1d5",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/s3_output-v0.1.1-da5972/s3_output-windows-amd64.exe",
+          "sha256": "4ed05529f3f514bbcd55bd1365f633dcd05758572a0a74ea54b43c4f8f8c1116",
           "size": 10429440,
           "manifest": {
             "module_id": "s3_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "b1c592eb37564e1a440770c9de1ee897670559c82363b6674ab64c9204acf1d5",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "4ed05529f3f514bbcd55bd1365f633dcd05758572a0a74ea54b43c4f8f8c1116",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "7NKl+/RiOnVDwbLhexSiBrYtlwe4cnUotIrpjZx5M34T7zvO4l9HH+CQ+9r0srEEHzOcrzzVcsLf54i2TDH5DQ==",
+            "signature": "LGfY9uDNf2eCZPYH6z6XwV5+85NlAokTyTEYd9h+3p0ZW5YG0fL8K9Vt9y4B1qbDHgUEGyo10L9ztF9LHJmIDw==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -719,51 +719,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-64efef/sentinel_output-darwin-arm64",
-          "sha256": "f1e680fc9f9497bc2ec6bb0a639e96562836afe544bbe32e0f0e0cac6f947849",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-da5972/sentinel_output-darwin-arm64",
+          "sha256": "7941af3ccac6e8b6614b9dbef19a89cafdb2187459dd1c7daa0f92125a6dab79",
           "size": 5951682,
           "manifest": {
             "module_id": "sentinel_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "f1e680fc9f9497bc2ec6bb0a639e96562836afe544bbe32e0f0e0cac6f947849",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "7941af3ccac6e8b6614b9dbef19a89cafdb2187459dd1c7daa0f92125a6dab79",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "OZqkERaPWkOOKWS6z4RIJHWFexyBOLeV00L5+05OjiNmmgknBu9Q70F6MAfMiDvEmDHsXj0WD3BpQWU7VK3MBg==",
+            "signature": "JOeRCNOTzT/Rmfg2FTyc5JREQZQjr8XrsYSu1JCzpuydI7FnYBy1qx8GyB66WmZkMpu5ZOW7DCvqlLWD95kwAA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-64efef/sentinel_output-linux-amd64",
-          "sha256": "74ffecd488f49bcd56a6cb48260ca2b274f40ae88d2fc71b4a4642b7d396e14f",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-da5972/sentinel_output-linux-amd64",
+          "sha256": "b3bf484c8525b48aa77e57fedeb5344c054b254e52bf04f6971fc24726000460",
           "size": 6324386,
           "manifest": {
             "module_id": "sentinel_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "74ffecd488f49bcd56a6cb48260ca2b274f40ae88d2fc71b4a4642b7d396e14f",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "b3bf484c8525b48aa77e57fedeb5344c054b254e52bf04f6971fc24726000460",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "yV+ybZakRBlxBOjqpO9S70F1R3XA9iscBJdJlJh97NMHbNSGQ9bOOMGCalbiZKrmI9S7SAmBWdSC4udPfYS0BA==",
+            "signature": "O/441P2fuzOs89kZLe5LyokFaG8zRa9/BFr1Zdk4n5/7eiXZNYBlI01huyLcVFR83MuFL8ebi4TQmfLZ6tIvDw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-64efef/sentinel_output-windows-amd64.exe",
-          "sha256": "46fff32d75e5b41e04ebb4964c277368e3ddec4d9325670a7c7894104e42129a",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/sentinel_output-v0.1.1-da5972/sentinel_output-windows-amd64.exe",
+          "sha256": "e2db905da1e21cb90fb37976901e1c5a1b4e5f57ecf8540f2cfdcbad8113b80a",
           "size": 6465536,
           "manifest": {
             "module_id": "sentinel_output",
             "role": "output",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "46fff32d75e5b41e04ebb4964c277368e3ddec4d9325670a7c7894104e42129a",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "e2db905da1e21cb90fb37976901e1c5a1b4e5f57ecf8540f2cfdcbad8113b80a",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "HNYAS48P1FNu4V1Y8vToiEVgdH2bacRscmOcqriyFBbrxYoZCRIc5d83SIxr3A6ir0O86WbY/cUx2g4ZRa/2CQ==",
+            "signature": "M+a/Xfq5ZJ+Wt7sPyyxfAM32f2Q3nsfHZ8yizoSGYhqynJGQogFXssedANQM830UmC/kobhVBFRIak5Z7fSbCA==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -778,51 +778,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-64efef/syslog_output-darwin-arm64",
-          "sha256": "fd8dc223b2b56297f4d86ea7c87eac9452727ca438b1d0fc7707b5ba1e21ebd8",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-da5972/syslog_output-darwin-arm64",
+          "sha256": "fd50ee07bbe592fa0df83d1d905b7c7f5d815b26b4130e16835fe34ac45a1373",
           "size": 4816194,
           "manifest": {
             "module_id": "syslog_output",
             "role": "output",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "fd8dc223b2b56297f4d86ea7c87eac9452727ca438b1d0fc7707b5ba1e21ebd8",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "fd50ee07bbe592fa0df83d1d905b7c7f5d815b26b4130e16835fe34ac45a1373",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "6zcf+3U3pZh4crYGF7p4GXvXdRHIW97IadCe3xvBAlSifKL0VG8fnh4e+hh0yWLYKB2O35El1ipBOSFNIsEfDg==",
+            "signature": "8VGGQA/7fNNRh0byUxm4rrrUO0Ts6u0oxyzRy0g8ZDsIpnmXpi7UuE2EOSfXwPSMOx3kyXDe8VKbI397qMdmAQ==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-64efef/syslog_output-linux-amd64",
-          "sha256": "7d51d9eec96fcb372318127d4e20f238ed94862f157792a3edc0015b214ac91c",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-da5972/syslog_output-linux-amd64",
+          "sha256": "b42aedc68cc1f87691850b6eeac844453c0f7bdab472eae1e256f57ef31438e5",
           "size": 5116066,
           "manifest": {
             "module_id": "syslog_output",
             "role": "output",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "7d51d9eec96fcb372318127d4e20f238ed94862f157792a3edc0015b214ac91c",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "b42aedc68cc1f87691850b6eeac844453c0f7bdab472eae1e256f57ef31438e5",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "+beSfNbFoKxlupCa70BTiNB3a0mvAxYwhzyMI5xo2F89Yz4ekG7KQJrcdCWyC+afO3Jk9tWvk6qzfBKMJiPxBQ==",
+            "signature": "dYZadu9nWgPWTMAlDE+50UN5viyvEmsONfU4hJwdcEbrZTcDVvdJ3JOauUyK+UBkv/C/kcSEk/+YqstcjUlFBA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-64efef/syslog_output-windows-amd64.exe",
-          "sha256": "25df2b53667638c3101b2e2166c12771bc9c6c275ddb4b4d2642619f97b77287",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/syslog_output-v0.3.1-da5972/syslog_output-windows-amd64.exe",
+          "sha256": "b2a9d5776cd4f687788e6880ba345fcb1ff30086616ced46e8a4b10f3224e877",
           "size": 5279744,
           "manifest": {
             "module_id": "syslog_output",
             "role": "output",
-            "target_version": "0.3.1-64efef",
-            "checksum_sha256": "25df2b53667638c3101b2e2166c12771bc9c6c275ddb4b4d2642619f97b77287",
+            "target_version": "0.3.1-da5972",
+            "checksum_sha256": "b2a9d5776cd4f687788e6880ba345fcb1ff30086616ced46e8a4b10f3224e877",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "42cE8PyLrZ6dmSgBKfBb2YeMER/ml+FpDlFRiPEovnbwE1jT7xhxH3qGobQOrKst66cyAbCzObfuWVbLcUi7Bg==",
+            "signature": "qCVx8SQ1/aeiqUPWeRpvMieqgBfvXS5diWp/hTOgFio8yRrE0hhE7Sj25h+A9CWKA3TQFbgKnpD0TrpeEI++DQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -837,51 +837,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-64efef/tailscale_input-darwin-arm64",
-          "sha256": "66f7856d96347b5272a97f6919e678f697df9c3ae9bdb908408592d8cf2d7c30",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-da5972/tailscale_input-darwin-arm64",
+          "sha256": "163fd19c7d1e8c782d817aaec208c74c734247ae06501683270304349281b05f",
           "size": 6018642,
           "manifest": {
             "module_id": "tailscale_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "66f7856d96347b5272a97f6919e678f697df9c3ae9bdb908408592d8cf2d7c30",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "163fd19c7d1e8c782d817aaec208c74c734247ae06501683270304349281b05f",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "+LcJF1kLNiIL8JzlaTdvbIfJACaK8hhrU+UczUovebsu/QXk5tVqlfjy6WmamFnAn7pGhX8t84GQ2V2C/2hbCQ==",
+            "signature": "1+xG7Xxb0k6vCG93ihdBFX1453Ouu19TTMPiAkILniWDa4WLTPgVqZ1j4CX/utDFkxOBZEUVKfAfnTVaPag2Bg==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-64efef/tailscale_input-linux-amd64",
-          "sha256": "01de3ef880f2c1f475a41d8ab46569d6c63a24dfe23e8b360fa97de980730abb",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-da5972/tailscale_input-linux-amd64",
+          "sha256": "58bc6d3a108568523a6af5129ef4da73a7d5da4bc3a344ddc23a058b9d728adb",
           "size": 6373538,
           "manifest": {
             "module_id": "tailscale_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "01de3ef880f2c1f475a41d8ab46569d6c63a24dfe23e8b360fa97de980730abb",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "58bc6d3a108568523a6af5129ef4da73a7d5da4bc3a344ddc23a058b9d728adb",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "3Puw24Eo3LhPDKZ2aPS96yHxQKV0vFCbrz9mpesU00u3XTnSI2+v/4HPbTvCADgMCyk3+HccqdcLDLHpuyw7CA==",
+            "signature": "5ocyLc7s/8NwnTMoPRCp+SdbDc6IjplMCuy1tQNP9Jq2NwiOwRzyt5tqbfsP2/ZSrtA8nwUXp93YzSBahRJ2DA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-64efef/tailscale_input-windows-amd64.exe",
-          "sha256": "8be6486ae145dc9cfbe499fdca1fa53f56ca7be00d507f32a732931c6afa631d",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tailscale_input-v0.1.1-da5972/tailscale_input-windows-amd64.exe",
+          "sha256": "d31a9e0651c187d548939174f310b8490d85455f8572737f40136d1f3fc36981",
           "size": 6533120,
           "manifest": {
             "module_id": "tailscale_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "8be6486ae145dc9cfbe499fdca1fa53f56ca7be00d507f32a732931c6afa631d",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "d31a9e0651c187d548939174f310b8490d85455f8572737f40136d1f3fc36981",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "bZWwqO4bPYID0LUCiPX4WbgNds0GJQ0BBrzqOJOBan2B5pYLuj+yIZZUUif5k8WJahK6+zIM0TgrR7pypO40BQ==",
+            "signature": "6Cz5VJot/uXVFa+d4BcfpWVE5mHVsvt/KE9THRhN/3F2M1xuBpu1+eP01ZJeYv06Yr1S9s2YydD9S2bz5PqOBQ==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -896,51 +896,51 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-64efef/tenable_input-darwin-arm64",
-          "sha256": "f55dab3941efaa42d40194d80b8d357b4b0d9ab2f3329cc1a7ef86eb1c06e71f",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-da5972/tenable_input-darwin-arm64",
+          "sha256": "c852cd77a0fd743c0795052be2ca6b2855fe52e8aa14b21124b17d46994473aa",
           "size": 6068754,
           "manifest": {
             "module_id": "tenable_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "f55dab3941efaa42d40194d80b8d357b4b0d9ab2f3329cc1a7ef86eb1c06e71f",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "c852cd77a0fd743c0795052be2ca6b2855fe52e8aa14b21124b17d46994473aa",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "4bPTOXQLaTPr4DJWBmXWIcw4tmW3/yCNAbk/JqDDGc++UIkcr17Ta+g79bLuE58Bw75PLrjiX5PWRtnXzMTwAw==",
+            "signature": "DGFzSAh4kXvlDGwPIjbbVsGo9SJRf/2yZFA79rU7C88lA3Qxf79dowpMcduLBCFly78iOr+ns3AZNSNfgFJHCg==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-64efef/tenable_input-linux-amd64",
-          "sha256": "a194950a1bdcc681bb35737627aec6970b2c47138aec8331d234981fa1ed4e6c",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-da5972/tenable_input-linux-amd64",
+          "sha256": "0bef29c1a5bfecf0b1e8e7de34aa3b6f0383469c9f1fdd74ed06eaceb5025167",
           "size": 6422690,
           "manifest": {
             "module_id": "tenable_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "a194950a1bdcc681bb35737627aec6970b2c47138aec8331d234981fa1ed4e6c",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "0bef29c1a5bfecf0b1e8e7de34aa3b6f0383469c9f1fdd74ed06eaceb5025167",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "PA7ByaYmpCv6jfPp0YF1xfQtt02nCiDL95Fp+VKxN+U460Dm57KbUM/3r6/AtyotqF3IUAdzUcsZcfIif9T7Cg==",
+            "signature": "SJ0WH/mMaixlN9LjTZ6yeYRYwdqkMYuoIxxZnVrYnsdAeT3QLgERtUee8o6NNLcHDEPWEJMexgau1ii8adRZCw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-64efef/tenable_input-windows-amd64.exe",
-          "sha256": "3c66d111bceb104e943420407373933db8641e6bb9ad3bbbabd60e39f5d833b1",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/tenable_input-v0.1.1-da5972/tenable_input-windows-amd64.exe",
+          "sha256": "dcbf21643168bf7984c6aae560fcf8557b55d42cb327900a72563714042c4e0b",
           "size": 6579712,
           "manifest": {
             "module_id": "tenable_input",
             "role": "input",
-            "target_version": "0.1.1-64efef",
-            "checksum_sha256": "3c66d111bceb104e943420407373933db8641e6bb9ad3bbbabd60e39f5d833b1",
+            "target_version": "0.1.1-da5972",
+            "checksum_sha256": "dcbf21643168bf7984c6aae560fcf8557b55d42cb327900a72563714042c4e0b",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "FSSH5g0TOI//cR0REiSpj9fvrfKfKimtnHhUTADUcad+8baqc+9T64XINKngZPyzBdjQT85m8iWp7+IIoq2uBw==",
+            "signature": "C0CnjZxs8fqAcNN4rxel3uUXNIw5ulfxX4ECpuy3iKgQdUHzA6P4/Imzpq7n3fyMAUEVGY1hgVwLLRrNd7m7Dg==",
             "signing_key_id": "fluyt-release"
           }
         }
@@ -955,57 +955,57 @@
         {
           "os": "darwin",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-913b59/twingate_input-darwin-arm64",
-          "sha256": "8a928789f456d9a5eb25ac4b8864871fc7273488297886400157f263eaedff87",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-da5972/twingate_input-darwin-arm64",
+          "sha256": "772364f152c6100358a33c902b90b74b7082494be423ace7997461929f78065c",
           "size": 6223602,
           "manifest": {
             "module_id": "twingate_input",
             "role": "input",
-            "target_version": "0.1.6-913b59",
-            "checksum_sha256": "8a928789f456d9a5eb25ac4b8864871fc7273488297886400157f263eaedff87",
+            "target_version": "0.1.6-da5972",
+            "checksum_sha256": "772364f152c6100358a33c902b90b74b7082494be423ace7997461929f78065c",
             "min_fluyt_version": "0.2",
             "platform": "darwin/arm64",
-            "signature": "WCI8FRCXw/e8O0L/XAwT0LYfIUXdzNrn4QF0mqixTfeEQhthhq4IfQHCLKOQ9UdImiuJ+3glLV81wodDB06pCA==",
+            "signature": "q5GsmleXL/zf+nyinNSOSvLxXNsJWqTBe56XO5A3BiK51M86kD1zftAKfU8l9NN5Dc7ExLLIJllVaruMCCrhAw==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-913b59/twingate_input-linux-amd64",
-          "sha256": "eee78b2e4f587f49e8d3a47b16294f8100f9dd3ba126e1786a8f1e7280d9da3b",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-da5972/twingate_input-linux-amd64",
+          "sha256": "a4be8333c2bf14a3f3fda91705e71b8d4c983356e59401247efa110402cee525",
           "size": 6586530,
           "manifest": {
             "module_id": "twingate_input",
             "role": "input",
-            "target_version": "0.1.6-913b59",
-            "checksum_sha256": "eee78b2e4f587f49e8d3a47b16294f8100f9dd3ba126e1786a8f1e7280d9da3b",
+            "target_version": "0.1.6-da5972",
+            "checksum_sha256": "a4be8333c2bf14a3f3fda91705e71b8d4c983356e59401247efa110402cee525",
             "min_fluyt_version": "0.2",
             "platform": "linux/amd64",
-            "signature": "PpWOH03JDq+VN6qnPTsZ0N7EnBNVlFBxSDEYMNBA+O4Ca6sUe+nsj3R+Blg1Q9zS9arcNWeL+7E3On66NZM3BQ==",
+            "signature": "JHsDrCDnnSHM5bjsSHChCDnorBTyLpHXKpr9MDKi0NwFX3fqflUF/OvwSS3tJgv9WNE5WiIUOnzgnFZXl0Q8BA==",
             "signing_key_id": "fluyt-release"
           }
         },
         {
           "os": "windows",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-913b59/twingate_input-windows-amd64.exe",
-          "sha256": "0efa95eb7d598204cf2054629c50d5a30c9ff0d1c8095b9b1c72eee53876a630",
+          "url": "https://raw.githubusercontent.com/begley-blu/fluyt-modules/main/twingate_input-v0.1.6-da5972/twingate_input-windows-amd64.exe",
+          "sha256": "861c4de1ec97aa7ae882af13750f2291febb9ce1e04702d496836291cefe66cb",
           "size": 6749696,
           "manifest": {
             "module_id": "twingate_input",
             "role": "input",
-            "target_version": "0.1.6-913b59",
-            "checksum_sha256": "0efa95eb7d598204cf2054629c50d5a30c9ff0d1c8095b9b1c72eee53876a630",
+            "target_version": "0.1.6-da5972",
+            "checksum_sha256": "861c4de1ec97aa7ae882af13750f2291febb9ce1e04702d496836291cefe66cb",
             "min_fluyt_version": "0.2",
             "platform": "windows/amd64",
-            "signature": "elBDXn2rwnrRfVJu+k3eMsk6+cD3Q+CvKEKDbjEVuYLb2wSo8t4ep0QXCPVwhxO9uUbR8GbwqCN1YeK4xAtkDQ==",
+            "signature": "7pctAEKW7N3oSdYh7w9ans12XjchtqJ9BQ25r9andnu9VdJB4jyXmGYKnRzoQsv2/lBGWkQDFx494khdgN9gDw==",
             "signing_key_id": "fluyt-release"
           }
         }
       ]
     }
   ],
-  "signature": "m5PwMWIU6oxBWz50zdFGgq7sE+2V/E9em0ypNO4V2EGL/sdQu4eotjmj+sSze1BfKRc8l3ml5/FE9Jr7eJ0gAw==",
+  "signature": "xRUwg8O3/dF0+yeEl/D1DHZGzMJRfVId471lrJfMuBk/5VULlrmSsLODLzJSn6J2PKHGiS0RgEnQBb9ed1LPCQ==",
   "signing_key_id": "fluyt-release"
 }
